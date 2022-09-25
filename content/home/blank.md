@@ -9,7 +9,7 @@ subtitle:
 weight: 10  # section position on page
 design:
   background:
-    image: tower.png
+    image: gsp.png
     image_darken: .8
     image_size: cover
     image_position: center
@@ -17,6 +17,6 @@ design:
     text_color_light: true
 ---
 
-<p  id="left"><p style="color:white; font-size:30px; padding: 0px 0px 0px 0px">Statistics, <br> Data Visualization,<br> &amp; Code </p></p>
+<p  id="left"><p style="color:white; font-size:30px; padding: 0px 0px 0px 0px">Cool Work,<br> Ideas &amp; Inspiration, <br> Periodically Updated </p></p>
 
 
