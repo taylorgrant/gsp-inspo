@@ -20,7 +20,7 @@ highlight_name: true
 organizations:
 - name: Goodby Silverstein & Partners
   url: http://goodbysilverstein.com/
-role: Group Director, Strategy & Analytics
+role: Communication Strategy
 social:
 # - icon: envelope
 #   icon_pack: fas
@@ -31,17 +31,17 @@ social:
 #   icon_pack: fab
 #   label: Follow me on Twitter
 #   link: https://twitter.com/taylorgrant38
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.com/citations?user=I-0l9TMAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/taylorgrant
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/taylorgrant38/
+# - icon: graduation-cap
+#   icon_pack: fas
+#   link: https://scholar.google.com/citations?user=I-0l9TMAAAAJ&hl=en
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/taylorgrant
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/taylorgrant38/
 superuser: true
-title: Taylor Grant 
+title: Goodby Silverstein & Partners 
 ---
 
 
