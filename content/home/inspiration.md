@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Projects
+title: Inspiration
 subtitle: ''
 
 content:
@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: DataViz
-    tag: DataViz
-  - name: Tidy Data
-    tag: tidy
+  - name: TBD
+    tag: TBD
+  - name: Other
+    tag: Other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
