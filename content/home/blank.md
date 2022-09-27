@@ -10,8 +10,8 @@ weight: 10  # section position on page
 design:
   background:
     image: gsp.png
-    image_darken: .8
-    image_size: cover
+    image_darken: 1
+    image_size: actual
     image_position: center
     image_parallax: true
     text_color_light: true
