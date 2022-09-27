@@ -1,15 +1,16 @@
 ---
-title: Ford F-150 Pickup Truck Emoji
+title: Ford - F-150 Pickup Truck Emoji
 author: ''
 date: '2022-09-26'
 slug: ford-f-150-pickup-truck-emoji
 categories:
-  - brand
+  - 2019
 tags:
   - ford
   - emoji
+  - phone
 subtitle: ''
-summary: 'How did a blue pickup truck emoji end up on our phones'
+summary: 'How did a blue pickup truck emoji end up on our phones?'
 authors: []
 lastmod: '2022-09-26T19:17:47-07:00'
 featured: no
