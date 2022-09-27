@@ -9,6 +9,8 @@ tags:
   - ford
   - emoji
   - phone
+  - gtb
+  - blue state
 subtitle: ''
 summary: 'How did a blue pickup truck emoji end up on our phones?'
 authors: []
