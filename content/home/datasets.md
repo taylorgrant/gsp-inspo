@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: TBD
-    tag: TBD
+  - name: Photography
+    tag: stock photography
   - name: Other
     tag: Other
 
