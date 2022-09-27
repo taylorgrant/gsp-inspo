@@ -14,6 +14,8 @@ tags:
   - fifa
   - ea sports
   - david
+  - digital
+  - clio
 subtitle: 'Tweet your goal with Stevenage FC and get free food.'
 summary: ''
 authors: []
