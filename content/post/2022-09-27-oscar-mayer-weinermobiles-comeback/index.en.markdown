@@ -19,7 +19,7 @@ featured: no
 image:
   caption: ''
   focal_point: 'Smart'
-  preview_only: yes
+  preview_only: no
 projects: []
 ---
 
