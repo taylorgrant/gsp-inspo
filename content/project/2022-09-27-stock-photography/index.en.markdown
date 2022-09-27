@@ -8,6 +8,7 @@ categories:
 tags:
   - stock photography
   - free use
+  - imagery
 subtitle: ''
 summary: 'Sources of free/unlicensed stock photography'
 authors: []

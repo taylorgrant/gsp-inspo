@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Photography
-    tag: stock photography
+  - name: Imagery
+    tag: imagery
   - name: Other
     tag: Other
 
