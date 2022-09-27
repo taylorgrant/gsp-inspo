@@ -9,7 +9,7 @@ tags:
   - netflix
   - zillow
   - digital
-subtitle: ''
+subtitle: 'Bly Manor has a real life Zillow listing.'
 summary: ''
 authors: []
 lastmod: '2022-09-26T20:42:55-07:00'
@@ -26,7 +26,7 @@ Netflix created a fun little easter egg ahead of the release of its original mov
 Here's 
 A fun way of integrating the advertising into the Zillow carousels. 
 
-```{r, echo = FALSE}
+```{r, echo = FALSE, cache=TRUE}
 tweetrmd::tweet_screenshot(tweetrmd::tweet_url("c_gro", "1313299567186714625"))
 ```
 

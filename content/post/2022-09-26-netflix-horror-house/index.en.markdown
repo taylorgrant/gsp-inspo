@@ -9,7 +9,7 @@ tags:
   - netflix
   - zillow
   - digital
-subtitle: ''
+subtitle: 'Bly Manor has a real life Zillow listing.'
 summary: ''
 authors: []
 lastmod: '2022-09-26T20:42:55-07:00'
