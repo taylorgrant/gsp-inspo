@@ -1,25 +1,28 @@
 ---
-title: Stock Photography
+title: Imagery (Stock photo & illustration)
 author: ''
 date: '2022-09-27'
-slug: stock-photography
+slug: imagery-stock-photo-illustration
 categories:
   - '2022'
 tags:
   - stock photography
+  - illustrations
   - free use
   - imagery
 subtitle: ''
-summary: 'Sources of free/unlicensed stock photography'
+summary: 'Sources of free/unlicensed stock photography, illustrations, and vector graphics'
 authors: []
-lastmod: '2022-09-27T15:30:59-07:00'
+lastmod: '2022-09-27T16:42:05-07:00'
 featured: no
 image:
-  caption: ''
+  caption: 'Image by Freepik'
   focal_point: 'Smart'
   preview_only: yes
 projects: []
 ---
+
+## Stock Photography 
 
 ### CC0-License
 
@@ -48,3 +51,11 @@ All the resources below have specifically specified that their content is ©️ 
 
   - [New York Public Library](https://digitalcollections.nypl.org/) - Over 900,000 images 
   - [Public Domain Archive](https://publicdomainarchive.com/) - New photos weekly, plus links to other free stock archives
+  
+## Illustrations
+
+  - [Biodiversity Heritage Library](https://www.flickr.com/photos/biodivlibrary/albums) - A mix of Public Domain and Attribution. Nearly 150,000 exquisite, historical illustrations of life on Earth
+  - [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/albums) - British Library’s collections on Flickr Commons 
+  - [Old Book Illustrations](https://www.oldbookillustrations.com/) - Illustrations from old books
+  - [unDraw](https://undraw.co/illustrations) - Open source illustrations; configure color as you want
+  - [Freepik](https://www.freepik.com/) - Illustrations, designs, and images for free use
