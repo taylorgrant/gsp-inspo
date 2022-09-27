@@ -11,6 +11,7 @@ tags:
   - gender bias
   - kitchenaid
   - tribeca
+  - sub:nr
 slug: kitchenaid-a-woman-s-place
 summary: In order to act on bias, you first have to recognize it.
 lastmod: '2022-09-27T11:43:52-07:00'

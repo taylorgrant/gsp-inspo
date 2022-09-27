@@ -11,6 +11,7 @@ tags:
   - phone
   - gtb
   - blue state
+  - sub:nr
 subtitle: ''
 summary: 'How did a blue pickup truck emoji end up on our phones?'
 authors: []
