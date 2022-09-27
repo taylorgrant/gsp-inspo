@@ -1,0 +1,30 @@
+---
+title: Ford F-150 Pickup Truck Emoji
+author: ''
+date: '2022-09-26'
+slug: ford-f-150-pickup-truck-emoji
+categories:
+  - brand
+tags:
+  - ford
+  - emoji
+subtitle: ''
+summary: 'How did a blue pickup truck emoji end up on our phones'
+authors: []
+lastmod: '2022-09-26T19:17:47-07:00'
+featured: no
+image:
+  caption: ''
+  focal_point: 'Smart'
+  preview_only: yes
+projects: []
+---
+
+Ford was behind the campaign
+
+{{% youtube "oCQmhUDbQdA" %}}
+
+<br>
+And here’s a short NPR [article](https://www.npr.org/2021/02/15/968150292/the-story-of-the-new-blue-pickup-truck-emoji) about Ford’s involvement.
+
+Who knew Taco Bell was behind the taco emoji? Or that Tinder was beind the interracial couple emoji?
