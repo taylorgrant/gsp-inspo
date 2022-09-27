@@ -35,8 +35,6 @@ content:
   order: desc
 
 design:
-
-  columns: '1'
   
   # Choose a view for the listings:
   #   1 = List
