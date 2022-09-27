@@ -1,0 +1,39 @@
+---
+title: KithenAid - A Woman's Place
+author: ''
+date: '2022-09-27'
+slug: kithenaid-a-woman-s-place
+categories:
+  - '2020'
+tags:
+  - kitchenaid
+  - digital
+  - documentary
+  - gender bias
+  - tribeca
+  - digitas
+subtitle: ''
+summary: 'In order to act on bias, you first have to recognize it.'
+authors: []
+lastmod: '2022-09-27T11:43:52-07:00'
+featured: no
+image:
+  caption: ''
+  focal_point: 'Smart'
+  preview_only: yes
+projects: []
+---
+
+KitchenAid produced a 29 minute documentary to highlight challenges women face in the restaurant business - not just as chefs, but as owners and other positions such as butchers. Produced by Digitas, Venturelana, and Vox Creative the doc follows three women as they work in what is an otherwise male-dominated field. It was streamed on Hulu. 
+
+From the Head of Brand Marketing at Whirlpool (KitchenAid's parent company):
+
+> “Over the last century, women, despite their incredible contributions, have struggled to make it in professional kitchens — held back by inequalities unfairly put upon them,” said Rob Sundy....“As a brand built by women and that stands for creating possibility in the kitchen, we can’t stand for inequalities any longer. And now as restaurants fight to reopen after a terrible pandemic forced their doors shut, they need our support more than ever.”
+
+Watch the short: 
+
+```{r, echo = FALSE}
+blogdown::shortcode('youtube', 'tiffqcBLClw')
+```
+
+KitchenAid also made a microsite [here](https://www.kitchenaid.com/awomansplace.html): 
