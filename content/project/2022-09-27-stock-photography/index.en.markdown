@@ -15,8 +15,8 @@ lastmod: '2022-09-27T15:30:59-07:00'
 featured: no
 image:
   caption: ''
-  focal_point: ''
-  preview_only: no
+  focal_point: 'Smart'
+  preview_only: yes
 projects: []
 ---
 
