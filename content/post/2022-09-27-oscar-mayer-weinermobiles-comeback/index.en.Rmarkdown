@@ -11,7 +11,7 @@ tags:
   - brand awareness
   - joy
 subtitle: ''
-summary: ''
+summary: "Spreading joy in a time when it's in short supply."
 authors: []
 lastmod: '2022-09-27T11:08:46-07:00'
 featured: no
