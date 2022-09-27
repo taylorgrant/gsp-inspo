@@ -15,7 +15,7 @@ tags:
   - alexa
   - oral b
 subtitle: ''
-summary: 'Kids struggle to brush their teeth properly. And teaching them sucks.'
+summary: 'Kids struggle to brush their teeth properly. And teaching them sucks. Enter Chompers.'
 authors: []
 lastmod: '2022-09-27T12:39:55-07:00'
 featured: no
