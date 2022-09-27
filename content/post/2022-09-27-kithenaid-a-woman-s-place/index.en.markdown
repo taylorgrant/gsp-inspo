@@ -34,4 +34,4 @@ Watch the short:
 
 {{% youtube "tiffqcBLClw" %}}
 
-KitchenAid also made a microsite [here](https://www.kitchenaid.com/awomansplace.html):
+KitchenAid also made a really well designed microsite [here](https://www.kitchenaid.com/awomansplace.html) in support.
