@@ -20,12 +20,16 @@ image:
 projects: []
 ---
 
-Ford was behind the campaign
+Ford was behind the campaign to have the truck added by using cutouts to petition the Unicode Consortium. 
+
 
 ```{r, echo = FALSE}
 blogdown::shortcode("youtube", "oCQmhUDbQdA")
 ```
 <br>
-And here's a short NPR [article](https://www.npr.org/2021/02/15/968150292/the-story-of-the-new-blue-pickup-truck-emoji) about Ford's involvement. 
+
+And afterwards, Ford looks to have done a bit of press. See [The Atlantic](https://www.theatlantic.com/technology/archive/2019/07/pickup-truck-emoji-will-debut-2020/594172/), [The Verge](https://www.theverge.com/2019/7/17/20697864/ford-pickup-truck-emoji-unicode-secret-submission), [Gizmodo](https://gizmodo.com/ford-secretly-created-the-new-pickup-emoji-because-noth-1836446445), [CNET](https://www.cnet.com/roadshow/news/ford-pickup-truck-world-emoji-day/)
+
+And here's a short NPR [article](https://www.npr.org/2021/02/15/968150292/the-story-of-the-new-blue-pickup-truck-emoji) from 2021 about Ford's involvement. 
 
 Who knew Taco Bell was behind the taco emoji? Or that Tinder was beind the interracial couple emoji?
