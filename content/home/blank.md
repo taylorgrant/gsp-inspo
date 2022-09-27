@@ -11,7 +11,7 @@ design:
   background:
     image: gsp.png
     image_darken: 1
-    image_size: actual
+    image_size: cover
     image_position: center
     image_parallax: true
     text_color_light: true
