@@ -1,0 +1,31 @@
+---
+title: Trends / Public Interest
+author: ''
+date: '2022-09-27'
+slug: trends-public-interest
+categories:
+  - '2022'
+tags:
+  - trends
+  - public opinion
+  - survey
+subtitle: ''
+summary: 'Data on public interest and public opinion'
+authors: []
+lastmod: '2022-09-27T16:55:22-07:00'
+featured: no
+image:
+  caption: ''
+  focal_point: 'Smart'
+  preview_only: yes
+projects: []
+---
+
+Links to resources for public opinion and public interest. 
+
+  - [Wikipedia Page Interest](https://pageviews.wmcloud.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&range=latest-20&pages=Cat|Dog) - Get daily pageview data for any page on Wikipedia. Data back to 2015. Takes 24 hours to populate, so as current as yesterday. 
+  - [Google Trends](https://trends.google.com/trends/?geo=US) - See what the world is searching - up to 5 topics/terms at a time. Data back to 2004. 
+  - [Economic Tracker](https://tracktherecovery.org/) - Born during Covid-19, this interactive dashboard provides frequently updated indicators such as employment rates, consumer spending, and job postings across counties, industries, and income groups.
+  - [Michigan Consumer Sentiment](http://www.sca.isr.umich.edu/) - Started in 1946, this is a monthly time series tracking consumer attitudes and expectations that are used to evaluate economic trends and prospects. All questions can be split out by age, education, region, income level, and party ID. 
+  - [YouGov](https://today.yougov.com/) - Frequently updated datasets and opinion polls covering politics, entertainment, brand rankings and ratings, and others. 
+  - [Morning Consult](https://morningconsult.com/news-analysis/) - Morning Consult news stories cover public opinion about politics as well as new, salient topics in the press. Within stories, they frequently link to pdf files of their survey crosstabs. 
