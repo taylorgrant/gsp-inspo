@@ -1,5 +1,5 @@
 ---
-title: Trends / Public Interest
+title: Trends / Public Opinion
 author: ''
 date: '2022-09-27'
 slug: trends-public-interest
@@ -21,11 +21,19 @@ image:
 projects: []
 ---
 
-Links to resources for public opinion and public interest. 
+### Trend Data 
 
   - [Wikipedia Page Interest](https://pageviews.wmcloud.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&range=latest-20&pages=Cat|Dog) - Get daily pageview data for any page on Wikipedia. Data back to 2015. Takes 24 hours to populate, so as current as yesterday. 
   - [Google Trends](https://trends.google.com/trends/?geo=US) - See what the world is searching - up to 5 topics/terms at a time. Data back to 2004. 
   - [Economic Tracker](https://tracktherecovery.org/) - Born during Covid-19, this interactive dashboard provides frequently updated indicators such as employment rates, consumer spending, and job postings across counties, industries, and income groups.
   - [Michigan Consumer Sentiment](http://www.sca.isr.umich.edu/) - Started in 1946, this is a monthly time series tracking consumer attitudes and expectations that are used to evaluate economic trends and prospects. All questions can be split out by age, education, region, income level, and party ID. 
+  - [MediaCloud](https://mediacloud.org/) - Analyze how digital media covers specific topics; specify time range and extract matching articles to trend over time. 
+  
+### Public Opinion
+
   - [YouGov](https://today.yougov.com/) - Frequently updated datasets and opinion polls covering politics, entertainment, brand rankings and ratings, and others. 
   - [Morning Consult](https://morningconsult.com/news-analysis/) - Morning Consult news stories cover public opinion about politics as well as new, salient topics in the press. Within stories, they frequently link to pdf files of their survey crosstabs. 
+  - [Pew Research Center](https://www.pewresearch.org/) - High quality research covering a variety of topics including generational research, news consumption, social media usage, among much more. 
+  - [Kaiser Family Foundation](https://www.kff.org/polling/) - Kaiser is a non-profit organization focusing on national health issues
+  - [New York Times Polls](https://www.nytimes.com/topic/subject/polls-and-related-articles-from-the-new-york-times) - News about Polls and Related Articles From The New York Times
+  - [YPulse](https://www.ypulse.com/) - Research group with focus on Gen Z and Millennials; articles normally include survey results.
