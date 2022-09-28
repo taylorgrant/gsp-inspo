@@ -29,8 +29,10 @@ content:
     tag: '*'
   - name: Imagery
     tag: imagery
-  - name: Other
-    tag: Other
+  - name: Trends
+    tag: trends
+  - name: Opinion
+    tag: survey
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
