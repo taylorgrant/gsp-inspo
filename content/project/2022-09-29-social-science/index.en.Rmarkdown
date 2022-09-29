@@ -23,6 +23,6 @@ projects: []
 ### National Level Surveys
 
   - [American National Election Studies](https://electionstudies.org/resources/anes-guide/) - National surveys of voters in the US, fielded before and after every presidential election. Understand ideology, public opinion on policy issues, religious characteristics, all at a very granular level. 
-  - [Cooperative Election Study](https://cces.gov.harvard.edu/) - Pre and post election survey, every two years of 50,000+ people in the country. Data can be broken down to the congressionla district; allowing you to map public opinion on a lot of different issues over time and across geographies.
-  - [World Values Survey](https://www.worldvaluessurvey.org/) - Survey of 60 countries focused on cultural values, attitudes, and beliefs towards gender, family, insitutional trust, poverty and social tolerance amongst others.
+  - [Cooperative Election Study](https://cces.gov.harvard.edu/) - Pre and post election survey, every two years of 50,000+ people in the country. Data can be broken down to the congressional district; allowing you to map public opinion on a lot of different issues over time and across geographies.
+  - [World Values Survey](https://www.worldvaluessurvey.org/) - Survey of 60 countries focused on cultural values, attitudes, and beliefs towards gender, family, institutional trust, poverty and social tolerance among others.
   - [General Social Survey](https://gss.norc.org/) - Conducted since 1972, the GSS surveys Americans across demographic, behavioral, and attitudinal questions plus topics around civil liberties, crime, violence, morality, psychological well being, and social mobility. 
