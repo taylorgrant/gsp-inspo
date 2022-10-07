@@ -24,6 +24,8 @@ projects: []
 ### General 
 
   - [US Census](https://www.census.gov/data.html) - The Census data portal
+    - Explore [data tables](https://data.census.gov/cedsci/table) 
+    - Build [crosstabs](https://data.census.gov/mdat/#/) from certain datasets
   - [Federal Reserve of St. Louis (FRED)](https://fred.stlouisfed.org/) - All the economic data you could ever want
   - [American Housing Survey](https://www.census.gov/programs-surveys/ahs/data.html) - Detailed data on home ownership, renovation, and repair 
   
